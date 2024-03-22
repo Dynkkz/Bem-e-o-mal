@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Significado Yang</title>
+    <link rel="stylesheet" href="Estilos.CSS"> 
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center; }
+        
+    
+    </style>
+
+<style>
+    .frases {
+            font-size: 24px;
+        }
+    
+</style>
+</head>
+<body>
+    <div class="frases">
+    <p>Atividade e Movimento: O Yang representa a energia ativa e em movimento. É associado à dinâmica e à ação.
+    <p>Luz e Clareza: Yang está ligado à luz, sugerindo clareza e iluminação. Ele representa a luminosidade que dissipa a escuridão. 
+    <p>Masculinidade e Assertividade: O Yang é associado com características mais masculinas, como força, assertividade e extroversão.
+    <p>Calor e Energia: Yang é muitas vezes associado ao calor e à energia, representando a vitalidade e a intensidade.</p>
+</body>
+</html>
